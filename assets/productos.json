@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "nombre": "Buzz Lightyear",
+      "precio": 650.50,
+      "codigo": "XLWW32",
+      "imagen": "https://cdn1.coppel.com/images/catalog/pr/7276252-1.jpg",
+      "cantidad": 35
+    },
+    {
+      "id": 2,
+      "nombre": "Plastilina Play-Doh",
+      "precio": 40.90,
+      "codigo": "LLPPW33",
+      "imagen": "https://cdn1.coppel.com/images/catalog/pr/7045912-1.jpg",
+      "cantidad": 35
+    },
+    {
+      "id": 3,
+      "nombre": "Triciclo Apache MB",
+      "precio": 199.70,
+      "codigo": "TTRPW66",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_927950-MLM47199736177_082021-V.jpg",
+      "cantidad": 35
+    },
+    {
+      "id": 4,
+      "nombre": "Slime PAQ 100",
+      "precio": 1390.55,
+      "codigo": "KKJKK12",
+      "imagen": "https://m.media-amazon.com/images/I/91mVG+vAw8L._AC_SX466_.jpg",
+      "cantidad": 35
+    }
+  ]
+  

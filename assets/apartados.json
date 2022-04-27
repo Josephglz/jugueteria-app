@@ -1,0 +1,23 @@
+[
+    {
+      "juguetes" : [
+          {
+              "id": 4,
+              "cantidad": 8
+          },
+          {
+              "id": 3,
+              "cantidad": 5
+          }
+      ],
+      "pagoInicial": 13000.0,
+      "fechaApartado": "26-4-2022",
+      "fechaVencimiento": "30-04-2022",
+      "estado": 1,
+      "entrega": "Joseph",
+      "cliente": "Ian",
+      "montoTotal": 12122.90
+    }
+  ]
+  
+  
